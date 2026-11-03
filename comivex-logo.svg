@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Rounded square background -->
+  <rect width="200" height="200" rx="44" fill="#0D7377"/>
+  <!-- Bold C letterform: arc from upper-right to lower-right going left -->
+  <path d="M142,62 A58,58 0 1 0 142,138" fill="none" stroke="white" stroke-width="28" stroke-linecap="round"/>
+  <!-- Accent dot top-right (coral) -->
+  <circle cx="151" cy="51" r="18" fill="#E8614D"/>
+</svg>
